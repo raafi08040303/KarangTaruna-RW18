@@ -98,3 +98,39 @@
   margin-bottom: 10px;
   font-weight: 500;
 }
+
+/* ==========================
+   ABOUT
+========================== */
+
+.about {
+  padding: 100px 0;
+  background: white;
+}
+
+.section-subtitle {
+  color: #198754;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.about h2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 15px 0;
+}
+
+.about p {
+  color: #555;
+  line-height: 1.9;
+}
+
+.about-list p {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.about img {
+  border-radius: 20px;
+}
