@@ -210,3 +210,53 @@
 
   margin-bottom: 15px;
 }
+
+/* ==========================
+   PROGRAM
+========================== */
+
+.program {
+  padding: 100px 0;
+
+  background: white;
+}
+
+.program-card {
+  background: #fff;
+
+  border-radius: 20px;
+
+  padding: 35px;
+
+  text-align: center;
+
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+
+  transition: 0.3s;
+
+  height: 100%;
+}
+
+.program-card:hover {
+  transform: translateY(-10px);
+}
+
+.program-card i {
+  font-size: 45px;
+
+  color: #198754;
+
+  margin-bottom: 20px;
+}
+
+.program-card h4 {
+  font-weight: 700;
+
+  margin-bottom: 15px;
+}
+
+.program-card p {
+  color: #666;
+
+  min-height: 80px;
+}
