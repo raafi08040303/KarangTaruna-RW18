@@ -134,3 +134,79 @@
 .about img {
   border-radius: 20px;
 }
+
+/* ==========================
+   VISI & MISI
+========================== */
+
+.vision {
+  background: #f8f9fa;
+
+  padding: 100px 0;
+}
+
+.section-title {
+  font-size: 42px;
+
+  font-weight: 700;
+
+  color: #198754;
+}
+
+.section-description {
+  max-width: 700px;
+
+  margin: auto;
+
+  color: #666;
+}
+
+.vision-card {
+  background: white;
+
+  padding: 40px 25px;
+
+  border-radius: 20px;
+
+  text-align: center;
+
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+
+  transition: 0.3s;
+}
+
+.vision-card:hover {
+  transform: translateY(-8px);
+}
+
+.vision-card i {
+  font-size: 45px;
+
+  color: #198754;
+
+  margin-bottom: 20px;
+}
+
+.mission-card {
+  background: #198754;
+
+  color: white;
+
+  border-radius: 15px;
+
+  padding: 30px;
+
+  text-align: center;
+
+  transition: 0.3s;
+}
+
+.mission-card:hover {
+  transform: scale(1.05);
+}
+
+.mission-card i {
+  font-size: 40px;
+
+  margin-bottom: 15px;
+}
